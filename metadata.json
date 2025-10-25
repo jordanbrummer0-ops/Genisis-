@@ -1,0 +1,7 @@
+{
+  "name": "Genesis Studio",
+  "description": "A conversational, voice-first creative studio app that helps you edit media, brainstorm ideas, get real-time information, and plan complex tasks, all through a natural chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
